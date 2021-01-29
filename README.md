@@ -1,4 +1,4 @@
-# Applied Machine Learning (F21)
+# Welcome to Applied Machine Learning (F21)
 
 Rahman Peimankar, 2021 
 
